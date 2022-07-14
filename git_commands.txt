@@ -1,0 +1,27 @@
+https://sunitharamki.atlassian.net/jira/software/projects/SELAUTO/boards/1
+
+https://sunitharamki.atlassian.net/jira/rest/api/3/issue/SELAUTO-1
+
+
+xReoS2ufGcCq1s04FXb7D476
+GIT commands
+notes to self
+	- local, remote
+	- from remote clone repository to local
+	- in local create branch and switch to branch
+	- do the(code) changes in the branch
+	- test in the branch
+	- git add <filename>
+	- git commit -m "<brief note>" <filename>
+	- git push to remote
+
+git config --global user.name "sunitha-ramki"
+git config --global user.email sunitha.ramki@gmail.com
+git config --list
+
+git clone https://github.com/sunitha-ramki/opensips-test-automation.git
+
+git status
+git branch
+
+
